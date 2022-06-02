@@ -1,0 +1,9 @@
+for (int m = 0; m <= d; m=m--)
+{
+    for( m >= d; )
+    {
+        A = f;
+        char c;
+    }
+}
+return 0;
