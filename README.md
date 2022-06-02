@@ -15,30 +15,28 @@ unknown identifiers.
                     
 Lexeme | Token
 ------------- | -------------
-for | FOR_STATEMENT
-( | LPARANT
-) | RPARANT
-int | INT_TYPE
-char | CHAR_TYPE
-= | ASSIGNM
-; | SEMICOLON
-> | GREATER
-< | LESS
->= | GRE_EQ
-<= | LESS_EQ
-{ | LCURLYB
-} | RCURLYB
-return | RETURN_STMT
-- | SUBT
-/ | DIV
-* | MULT
-+ | ADD
-identifier | An identifier consists of a single letter
-integer|  constant INT_LIT
+`for` | FOR_STATEMENT
+`(` | LPARANT
+`)` | RPARANT
+`int` | INT_TYPE
+`char` | CHAR_TYPE
+`=` | ASSIGNM
+`;` | SEMICOLON
+`>` | GREATER
+`<` | LESS
+`>=` | GRE_EQ
+`<=` | LESS_EQ
+`{` | LCURLYB
+`}` | RCURLYB
+`return` | RETURN_STMT
+`-` | SUBT
+`/` | DIV
+`*` | MULT
+`+` | ADD
+`identifier` | An identifier consists of a single letter
+`integer` | constant INT_LIT
 
 ------------
-
-
 
 
 ### Sample Run:
