@@ -1,6 +1,6 @@
 ### Simple Lexical Analyzer Features
 
-The task in this project is extracts lexemes from an input source code written in Java and determines their tokens as specified below. The first column of the following table shows the set of lexemes you need to recognize while the right shows their tokens.
+The purpose in this project is extracts lexemes from an input source code written in Java and determines their tokens as specified below. The first column of the following table shows the set of lexemes you need to recognize while the right shows their tokens.
 
 Program also check for errors. Error types that could exist:
 - Unknown operator: This occurs when an operator other than the ones given in
